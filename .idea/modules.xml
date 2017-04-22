@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Batam-Panorama-master.iml" filepath="$PROJECT_DIR$/Batam-Panorama-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/BatamPanorama.iml" filepath="$PROJECT_DIR$/BatamPanorama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
